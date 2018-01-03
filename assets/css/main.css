@@ -80,6 +80,8 @@ p {
 	margin-left: 100px;
 	font-family: -apple-system-body, BlinkMacSystemFont, sans-serif;
 	font-size: 15px;
+	line-height: 25px;
+	color: #196666;
 }
 
 .right_p p{
@@ -123,7 +125,7 @@ img {
 }
 
 .work_img{
-	float: right;
+	display: block;
 	margin-right: 100px;
 	border-radius: 5px;
 	padding-left: 0px;
